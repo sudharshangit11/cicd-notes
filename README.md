@@ -16,4 +16,4 @@ wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.91/bin/apache-tomcat-9.0.115.
 
 #sonarqube install
 
-How to install and configure SonarQube on AWS EC2 Ubuntu 22.04 and 20.04 (Full Setup)? | by DeshDeepakDhobi (DD) | Medium
+https://medium.com/@deshdeepakdhobi/how-to-install-and-configure-sonarqube-on-aws-ec2-ubuntu-22-04-c89a3f1c2447
