@@ -6,6 +6,20 @@ https://github.com/NikitasGithub/DevOpsClassCodes.git
 
 https://github.com/akshu20791/addressbook-cicd-project
 
+#grafana install
+
+wget https://dl.grafana.com/enterprise/release/grafana-enterprise-11.1.4.linux-amd64.tar.gz
+
+tar -zxvf grafana-enterprise-11.1.4.linux-amd64.tar.gz
+
+./bin/Grafana-server
+
+#prometheus install
+
+wget https://github.com/prometheus/prometheus/releases/download/v2.53.2/prometheus-2.53.2.linux-amd64.tar.gz
+
+tar -zxvf prometheus-2.53.2
+
 #kubernetes master install
 
 wget raw.githubusercontent.com/NikitasGithub/Deployment-script/main/k8s-master.sh
